@@ -1,5 +1,5 @@
-# sprint_2
-Sprint 2 project from TripleTen bootcamp.
+# sprint_3
+Sprint 3 project from TripleTen bootcamp. Statistical data analysis for telecommunications.
 
 ## Usage
 The .ipynb file was downloaded as-is from TripleTen's JupyterNotebook instance. The Python code output and Markdown cells should be maintained from when this project was originally reviewed.
